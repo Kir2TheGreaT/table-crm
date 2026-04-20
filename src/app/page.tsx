@@ -19,7 +19,7 @@ export default function Page() {
         <Card className="rounded-2xl">
           <CardHeader>
             <CardTitle>Мобильный заказ</CardTitle>
-            <CardDescription>Мини CRM для создания продажи</CardDescription>
+            <CardDescription>CRM для создания заказа</CardDescription>
           </CardHeader>
         </Card>
         <CashboxConnect />
